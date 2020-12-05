@@ -1,0 +1,20 @@
+export const LOCAL_STORAGE = {
+    // 用户配置
+    CONFIG: 'config',
+    // 天气
+    WEATHER_RESPONSE: 'WEATHER_RESPONSE',
+    WEATHER_RESPONSE_LAST_TIME: 'WEATHER_RESPONSE_LAST_TIME',
+    // IP定位
+    IP_RESPONSE: 'IP_RESPONSE',
+
+    // 定时配置
+    USER_CONFIG_BADGE: 'USER_CONFIG_BADGE',
+    // 请求默认天气
+    REQUEST_WEATHER_URI: 'REQUEST_WEATHER_URI',
+
+    // 请求天气响应存放 [{}, {}]
+    RESPONSE_WEATHER_DATA: 'RESPONSE_WEATHER_DATA',
+
+
+
+};
